@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.0d31c6f9.css",
+    "main.js": "/Portfolio/static/js/main.d18942fc.js",
+    "static/media/mainImg.png": "/Portfolio/static/media/mainImg.9a5cc583c440a0fc9ea1.png",
+    "static/media/portfolioSD.jpg": "/Portfolio/static/media/portfolioSD.f601a816b4ea61159b70.jpg",
+    "static/media/portfolioPP.png": "/Portfolio/static/media/portfolioPP.ba0da16295a55e636269.png",
+    "static/media/aboutImg.jpg": "/Portfolio/static/media/aboutImg.6a78cc376af6cce5896b.jpg",
+    "static/media/portfolioStorify.jpg": "/Portfolio/static/media/portfolioStorify.59dd87968f36478a994c.jpg",
+    "static/media/portfolioSOT.jpg": "/Portfolio/static/media/portfolioSOT.e9e641dd119182fcee46.jpg",
+    "static/media/portfolioRPG.jpg": "/Portfolio/static/media/portfolioRPG.b1e0503aef043392f6fd.jpg",
+    "static/media/Sridhar'sResume.pdf": "/Portfolio/static/media/Sridhar'sResume.ff450435e8a8230d6c82.pdf",
+    "index.html": "/Portfolio/index.html",
+    "main.0d31c6f9.css.map": "/Portfolio/static/css/main.0d31c6f9.css.map",
+    "main.d18942fc.js.map": "/Portfolio/static/js/main.d18942fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d31c6f9.css",
+    "static/js/main.d18942fc.js"
+  ]
+}
