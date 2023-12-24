@@ -36,7 +36,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            I am a Full Stack Web Developer with a passion for learning and creating. I have experience in HTML, CSS, JavaScript, React, Node.js, Express, SQL, and Python. I am a graduate of the University of Texas at Austin with a Bachelor of Science in Electrical and Computer Engineering. I am currently seeking a full-time position as a Full Stack Web Developer.
+            As a third-year software engineering student at the University of Western Ontario, I'm excited to share my journey with you through this digital portfolio. Here, you'll discover how creativity and innovation intertwine in my experiences, skills, and projects. My dedication to software engineering and my commitment to achieving meaningful outcomes are evident throughout. Join me on this visual journey, and please don't hesitate to connect!
           </p>
           <a href="#contact" className='btn btn-primary'>Contact Me!</a>
         </div>
