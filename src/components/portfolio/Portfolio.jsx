@@ -35,7 +35,7 @@ const data = [
   {
     id: 5,
     image: IMG3,
-    title: 'Tron Light Cycle',
+    title: 'Tron - Light Cycle',
     github: 'https://github.com/SridharPatel735/Tron'
   },
   {
