@@ -12,37 +12,37 @@ const data = [
     id: 1,
     image: IMG5,
     title: 'PigeonPlex - Cinema Management System',
-    github: 'https://github.com'
+    github: 'https://github.com/SridharPatel735/PigeonPlex'
   },
   {
     id: 2,
     image: IMG6,
     title: 'Superhero Database Management System',
-    github: 'https://github.com'
+    github: 'https://github.com/SridharPatel735/Superhero-Database'
   },
   {
     id: 3,
     image: IMG2,
     title: 'Storify - MySQL Database',
-    github: 'https://github.com'
+    github: 'https://github.com/SridharPatel735/Storify'
   },
   {
     id: 4,
     image: IMG1,
     title: 'SuperOhioThrowdown',
-    github: 'https://github.com'
+    github: 'https://github.com/SridharPatel735/SuperOhioThrowdown'
   },
   {
     id: 5,
     image: IMG3,
     title: 'Tron - Light Cycle',
-    github: 'https://github.com'
+    github: 'https://github.com/SridharPatel735/Tron'
   },
   {
     id: 6,
     image: IMG4,
     title: 'RPG Game',
-    github: 'https://github.com'
+    github: 'https://github.com/SridharPatel735/ChooseYourOwnAdventureGameSummative'
   }
 ]
 

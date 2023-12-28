@@ -27,7 +27,7 @@ const About = () => {
             <article className='about__card'>
               <AiOutlineDatabase className='about__icon'/>
               <h5>Databases</h5>
-              <small>Experience with SQL</small>
+              <small>Experience with SQL and MongoDB</small>
             </article>
             <article className='about__card'>
               <FaLaptopCode className='about__icon'/>
