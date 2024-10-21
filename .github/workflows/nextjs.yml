@@ -1,3 +1,15 @@
+name: Portfolio
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
 concurrency:
   group: "pages"
   cancel-in-progress: false
@@ -25,7 +37,6 @@ jobs:
             echo "Unable to determine package manager"
             exit 1
           fi
-
 
       - name: Setup Node
         uses: actions/setup-node@v4
