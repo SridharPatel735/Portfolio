@@ -55,7 +55,7 @@ const RecentProjects = () => {
                       style={{ backgroundColor: "#13162D" }}
                     >
                       <img
-                        src="/bg.png"
+                        src="./bg.png"
                         alt="bgimg"
                         className="w-full h-full object-cover"
                       />

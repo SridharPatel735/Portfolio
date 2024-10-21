@@ -7,7 +7,7 @@ import { ColorHighlight } from "./ui/colorHighlight";
 
 const Hero = () => {
   const openResume = () => {
-    window.open("/Sridhar'sResume.pdf", "_blank");
+    window.open("./Sridhar'sResume.pdf", "_blank");
   };
 
   return (
@@ -27,7 +27,7 @@ const Hero = () => {
           <div className="flex justify-center relative my-20 z-30">
             <div className="flex flex-col md:flex-row items-center justify-center w-full max-w-[89vw] md:max-w-2xl lg:max-w-[60vw]">
               <div className="w-full md:w-4/12 flex justify-center">
-                <img src="/mainImg.png" alt="Description of image" className="max-w-full h-auto" />
+                <img src="./mainImg.png" alt="Description of image" className="max-w-full h-auto" />
               </div>
               <div className="w-full md:w-8/12 flex flex-col items-start justify-center md:pl-4"> {/* Added padding here */}
                 <p className="uppercase tracking-widest text-[30px] md:text-2xl lg:text-2xl whitespace-nowrap text-left text-blue-100 max-w-80 mb-4">
