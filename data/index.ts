@@ -208,14 +208,14 @@ export const workExperience = [
     id: 2,
     title: "Security Data Analytics Extern",
     desc: "During my Web3 Security Data Analytics Externship, I analyzed and labeled smart contract vulnerabilities using machine learning techniques and data visualization.",
-    className: "md:col-span-2", // change to md:col-span-2
+    className: "md:col-span-2",
     thumbnail: "./exp2.svg",
   },
   {
     id: 3,
     title: "Superhero DB Project",
     desc: "For my Superhero DB project, I developed a full-stack web application with a Node.js and Express REST API, MongoDB for data storage, and a client-side interface using HTML, CSS, and JavaScript, supporting asynchronous operations and managing superhero lists.",
-    className: "md:col-span-2", // change to md:col-span-2
+    className: "md:col-span-2",
     thumbnail: "./exp3.svg",
   },
   {

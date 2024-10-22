@@ -10,9 +10,10 @@ const Grid = () => {
       element.scrollIntoView({ behavior: "smooth" });
     }
   };
+
   return (
-    <section id="skills" className="py-20" onClick={(e) => handleClick(e, "#skills")}>
-      <BentoGrid className="w-full py-20 px-4 md:px-8 lg:px-16">
+    <section id="skills" className="py-10 sm:py-20" onClick={(e) => handleClick(e, "#skills")}>
+      <BentoGrid className="w-full py-10 sm:py-20 px-4 md:px-8 lg:px-16">
         {gridItems.map((item) => (
           <BentoGridItem
             id={item.id}

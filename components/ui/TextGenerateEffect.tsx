@@ -40,8 +40,8 @@ export const TextGenerateEffect = ({ words, className }: { words: string; classN
   return (
     <div className={cn("font-bold", className)}>
       <div className="my-4">
-        <div className="dark:text-white text-black leading-snug tracking-wide">
-          <motion.span className="opacity-100 text-blue-500">{displayedText}</motion.span>
+        <div className="dark:text-white text-black leading-snug tracking-wide overflow-hidden text-ellipsis">
+          <motion.span className="opacity-100 text-blue-500 whitespace-normal md:whitespace-nowrap">{displayedText}</motion.span>
         </div>
       </div>
     </div>

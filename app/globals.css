@@ -126,3 +126,15 @@
   background: #6b7280;
   /* Darker gray when hovered in dark mode */
 }
+
+@media (max-width: 768px) {
+  .hero-image {
+    padding-top: 5rem;
+    /* Add padding to ensure image isn't cut off */
+    height: 250px;
+  }
+
+  .test {
+    padding-bottom: 18rem;
+  }
+}
